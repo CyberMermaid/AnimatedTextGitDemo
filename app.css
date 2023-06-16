@@ -2,11 +2,11 @@ body{
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: rgb(38, 2, 103);
+    background-color:teal;
 }
 
 h1{
-    font-size: 15rem;
+    font-size: 16rem;
     font-family: Montserrat;
 }
 
